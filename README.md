@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently work as Freelancer
 
-- 💬 Ask me about **python, js, django, grpc**
+- 💬 Ask me about **python, js, django, fastapi**
 
 - 📫 How to reach me **litoosh13@gmail.com**
 
